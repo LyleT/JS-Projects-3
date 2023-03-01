@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2020-01-01",
+    "localName": "元旦",
+    "countryCode": "CN",
+    "type": "Public"
+  },
+  {
+    "date": "2020-01-25",
+    "localName": "春节",
+    "countryCode": "CN",
+    "type": "Public"
+  },
+  {
+    "date": "2020-04-05",
+    "localName": "清明节",
+    "countryCode": "CN",
+    "type": "Public"
+  },
+  {
+    "date": "2020-05-01",
+    "localName": "劳动节",
+    "countryCode": "CN",
+    "type": "Public"
+  },
+  {
+    "date": "2020-05-27",
+    "localName": "端午节",
+    "countryCode": "CN",
+    "type": "Public"
+  },
+  {
+    "date": "2020-10-01",
+    "localName": "中秋节",
+    "countryCode": "CN",
+    "type": "Public"
+  },
+  {
+    "date": "2020-10-01",
+    "localName": "国庆节",
+    "countryCode": "CN",
+    "type": "Public"
+  }
+]

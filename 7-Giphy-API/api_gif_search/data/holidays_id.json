@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2020-01-01",
+    "localName": "Tahun Baru Masehi",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-04-10",
+    "localName": "Wafat Isa Almasih",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-04-12",
+    "localName": "Paskah",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-05-01",
+    "localName": "Hari Buruh Internasional",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-05-22",
+    "localName": "Kenaikan Isa Almasih",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-06-01",
+    "localName": "Hari Lahir Pancasila",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-08-17",
+    "localName": "Hari Ulang Tahun Kemerdekaan Republik Indonesia",
+    "countryCode": "ID",
+    "type": "Public"
+  },
+  {
+    "date": "2020-12-25",
+    "localName": "Hari Raya Natal",
+    "countryCode": "ID",
+    "type": "Public"
+  }
+]

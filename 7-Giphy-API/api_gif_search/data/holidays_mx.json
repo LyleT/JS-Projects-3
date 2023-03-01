@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2020-01-01",
+    "localName": "Año Nuevo",
+    "countryCode": "MX",
+    "type": "Public"
+  },
+  {
+    "date": "2020-02-03",
+    "localName": "Día de la Constitución",
+    "countryCode": "MX",
+    "type": "Public"
+  },
+  {
+    "date": "2020-03-16",
+    "localName": "Natalicio de Benito Juárez",
+    "countryCode": "MX",
+    "type": "Public"
+  },
+  {
+    "date": "2020-05-01",
+    "localName": "Día del Trabajo",
+    "countryCode": "MX",
+    "type": "Public"
+  },
+  {
+    "date": "2020-09-16",
+    "localName": "Día de la Independencia",
+    "countryCode": "MX",
+    "type": "Public"
+  },
+  {
+    "date": "2020-11-16",
+    "localName": "Día de la Revolución",
+    "countryCode": "MX",
+    "type": "Public"
+  },
+  {
+    "date": "2020-12-25",
+    "localName": "Navidad",
+    "countryCode": "MX",
+    "type": "Public"
+  }
+]

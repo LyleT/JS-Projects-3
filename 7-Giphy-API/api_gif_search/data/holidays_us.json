@@ -1,0 +1,56 @@
+[
+   {
+      "date":"2020-01-01",
+      "localName":"New Year's Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-01-20",
+      "localName":"Martin Luther King, Jr. Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-02-17",
+      "localName":"Presidents Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-05-25",
+      "localName":"Memorial Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-07-03",
+      "localName":"Independence Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-09-07",
+      "localName":"Labor Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-11-11",
+      "localName":"Veterans Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-11-26",
+      "localName":"Thanksgiving Day",
+      "countryCode":"US",
+      "type":"Public"
+   },
+   {
+      "date":"2020-12-25",
+      "localName":"Christmas Day",
+      "countryCode":"US",
+      "type":"Public"
+   }
+]

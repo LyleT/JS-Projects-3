@@ -1,0 +1,1 @@
+Holiday data gathered thanks to free API: https://date.nager.at/
