@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bare-css@2.0.3/css/bare.min.css" />
+</head>
+<body>
+    <nav>
+        <section>
+            <h1>Holiday Gif Search</h1>
+            <select id="countries" onChange="doFetchHoliday()">
+                <option value="us">United States</option>
+                <option value="cn">China</option>
+                <option value="mx">Mexico</option>
+                <option value="id">Indonesia</option>
+                <option value="br">Brazil</option>
+            </select>
+        </section>
+    </nav>
+
+    <grid>
+      <div col="1/3"> <!-- CSS from Bare.css-->
+        <table>
+            <thead>
+                <tr><th>Country</th> <th>Date</th><th>Name</th><th>Gifs</th></tr>
+            </thead>
+            <tbody id="holidayOutput">
+            </tbody>
+        </table>
+      </div>
+
+      <div col="2/3">
+        <div id="output">
+        </div>
+      </div>
+    </grid>
+
+
+    <script src="js/main.js"></script>
+</body>
+</html>

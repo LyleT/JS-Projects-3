@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2020-01-01",
+    "localName": "Confraternização Universal",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-02-25",
+    "localName": "Carnaval",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-04-10",
+    "localName": "Sexta feira Santa",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-04-12",
+    "localName": "Domingo de Pascoa",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-04-21",
+    "localName": "Dia de Tiradentes",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-05-01",
+    "localName": "Dia do Trabalhador",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-06-11",
+    "localName": "Corpus Christi",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-09-07",
+    "localName": "Dia da Independência",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-10-12",
+    "localName": "Nossa Senhora Aparecida",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-11-02",
+    "localName": "Dia de Finados",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-11-15",
+    "localName": "Proclamação da República",
+    "countryCode": "BR",
+    "type": "Public"
+  },
+  {
+    "date": "2020-12-25",
+    "localName": "Natal",
+    "countryCode": "BR",
+    "type": "Public"
+  }
+]
